@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plant Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #plant-info {
+            margin-top: 20px;
+        }
+        img {
+            width: 300px;
+            height: auto;
+        }
+        button {
+            padding: 10px;
+            margin: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Plant Viewer</h1>
+    <div>
+        <img id="plant-image" src="" alt="Plant Image">
+    </div>
+    <div id="plant-info">
+        <h2 id="plant-name"></h2>
+        <p id="plant-classification"></p>
+    </div>
+    <button onclick="showPlantInfo()">Show Plant Info</button>
+    <button onclick="showRandomPlant()">Show Random Plant</button>
+
+    <script>
+        // Load plant data from Flask
+        const plants = {{ plants | tojson }};
+        let currentPlant = null;
+
+        // Function to show plant info
+        function showPlantInfo() {
+            if (currentPlant) {
+                document.getElementById('plant-name').textContent = currentPlant.plantname;
+                document.getElementById('plant-classification').textContent = currentPlant.classification;
+            }
+        }
+
+        // Function to show a random plant
+        function showRandomPlant() {
+            fetch('/random_plant')
+                .then(response => response.json())
+                .then(data => {
+                    currentPlant = data;
+                    document.getElementById('plant-image').src = "/static/" + currentPlant.image_path;
+                    document.getElementById('plant-name').textContent = '';
+                    document.getElementById('plant-classification').textContent = '';
+                });
+        }
+
+        // Initial random plant load
+        showRandomPlant();
+    </script>
+</body>
+</html>

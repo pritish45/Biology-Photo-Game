@@ -1,0 +1,242 @@
+plantname,classification,image_path
+Corallina,Rodofita,extracted_images/image1.jpg
+Chondrus,Rodofita,extracted_images/image2.jpg
+Chondrus crispus,"Rodofita 
+
+R III",extracted_images/image3.jpg
+Ulva lactuca,Clorofita,extracted_images/image4.jpg
+Ulva intestinalis,"Clorofita
+
+R III",extracted_images/image5.jpg
+Enteromorpha intestinalis,Clorofita,extracted_images/image6.jpg
+Acetabularia,Clorofita,extracted_images/image7.jpg
+Laminaria,Feofita,extracted_images/image8.jpg
+Fucus,Feofita,extracted_images/image9.jpg
+Sargassum,Feofita,extracted_images/image10.jpg
+Himmanthalia,Feofita,extracted_images/image11.jpg
+Ascophyllum,Feofita,extracted_images/image12.jpg
+Lactarius,Basidiomiceto,extracted_images/image13.jpg
+Boletus,Basidiomiceto,extracted_images/image14.jpg
+Agaricus,Basidiomiceto,extracted_images/image15.jpg
+Lepiota,Basidiomiceto,extracted_images/image16.jpg
+Amanita,Basidiomiceto,extracted_images/image17.jpg
+Armillaria,Basidiomiceto,extracted_images/image18.jpg
+Phallus impudicus,"Basidiomiceto
+
+C VISU II",extracted_images/image19.jpg
+Laetiporus sulphureus,"Basidiomiceto 
+
+R III",extracted_images/image20.jpg
+Mucor mucedo,Ficomiceto,extracted_images/image21.jpg
+Graphis,Liquen,extracted_images/image22.jpg
+Cladonia rangiferina,Liquen,extracted_images/image23.jpg
+Parmelia,Liquen,extracted_images/image24.jpg
+Usnea barbata,Liquen,extracted_images/image25.jpg
+Xanthoria,Liquen,extracted_images/image26.jpg
+Marchantia polymorpha,Liquen,extracted_images/image27.jpg
+Lobaria pulmonaria,"Liquen
+
+R III",extracted_images/image28.jpg
+Polytrichum,Musgo,extracted_images/image29.jpg
+Polypodium vulgare,Pteridofita,extracted_images/image30.jpg
+Asplenium,Pteridofita,extracted_images/image31.jpg
+Pteridium aquilinum,Pteridofita,extracted_images/image32.jpg
+Polystichum,Pteridofita,extracted_images/image33.jpg
+Scolopendrium officinale,Pteridofita,extracted_images/image34.jpg
+Blechnum spicant,Pteridofita,extracted_images/image35.jpg
+Aspidium,Pteridofita,extracted_images/image36.jpg
+Osmunda regalis,Pteridofita,extracted_images/image37.jpg
+Davallia canariensis,Pteridofita,extracted_images/image38.jpg
+Lycopodium,Pteridofita,extracted_images/image39.jpg
+Adiantum,Pteridofita,extracted_images/image40.jpg
+"Ophioglossum vulgatum 
+
+Lengua de serpiente","Pteridófita
+
+R II",extracted_images/image41.jpg
+Ginko biloba,Gimnosperma,extracted_images/image42.jpg
+Ephedra,Gimnosperma,extracted_images/image43.jpg
+"Taxus
+baccata","Gimnosperma
+
+C VISU I",extracted_images/image44.jpg
+Araucaria,Gimnosperma,extracted_images/image45.jpg
+"Larix
+decidua",Gimnosperma,extracted_images/image46.jpg
+Cedrus,Gimnosperma,extracted_images/image47.jpg
+Abies,Gimnosperma,extracted_images/image48.jpg
+Picea,Gimnosperma,extracted_images/image49.jpg
+Pseudotsuga mienziessi,Gimnosperma,extracted_images/image50.jpg
+Pinus,Gimnosperma,extracted_images/image51.jpg
+Cupressus,Gimnosperma,extracted_images/image52.jpg
+Cupressus sempervirens,"Gimnosperma
+
+C VISU II",extracted_images/image53.jpg
+Chamaeciparis lawsoniana,Gimnosperma,extracted_images/image54.jpg
+Cryptomeria japonica,Gimnosperma,extracted_images/image55.jpg
+Sequoia,Gimnosperma,extracted_images/image56.jpg
+Juniperus,Gimnosperma,extracted_images/image57.jpg
+Juniperus oxycedrus,"Gimnosperma
+
+C VISU I",extracted_images/image58.jpg
+Platycladus orientalis,"Gimnosperma
+
+C VISU II",extracted_images/image59.jpg
+Fagus sylvatica,Dicotiledónea,extracted_images/image60.jpg
+Castanea,Dicotiledónea,extracted_images/image61.jpg
+Quercus,Dicotiledónea,extracted_images/image62.jpg
+Betula,Dicotiledonea,extracted_images/image63.jpg
+Alnus glutinosa,Dicotiledónea,extracted_images/image64.jpg
+Corylus avellana,Dicotiledonea,extracted_images/image65.jpg
+Casuarina,Dicotiledonea,extracted_images/image66.jpg
+Juglans,Dicotiledónea,extracted_images/image67.jpg
+Juglans regia,"Dicotoledónea
+
+R III",extracted_images/image68.jpg
+Salix,Dicotiledónea,extracted_images/image69.jpg
+Ulmus,Dicotiledónea,extracted_images/image70.jpg
+Ficus,Dicotiledónea,extracted_images/image71.jpg
+Urtica,Dicotiledónea,extracted_images/image72.jpg
+Humulus lupulus,Dicotiledónea,extracted_images/image73.jpg
+Viscum álbum,Dicotiledónea,extracted_images/image74.jpg
+Rumex,Dicotiledónea,extracted_images/image75.jpg
+Chenopodium,Dicotiledónea,extracted_images/image76.jpg
+Amaranthus,Dicotiledónea,extracted_images/image77.jpg
+Cuscuta,Dicotiledónea,extracted_images/image78.jpg
+Euphorbia,Dicotiledónea,extracted_images/image79.jpg
+Buxus,Dicotiledónea,extracted_images/image80.jpg
+Carpobrotus,Dicotiledónea,extracted_images/image81.jpg
+Magnolia,Dicotiledónea,extracted_images/image82.jpg
+Liriodendron tulipifera,Dicotiledónea,extracted_images/image83.jpg
+Laurus nobilis,Dicotiledónea,extracted_images/image84.jpg
+Stellaria,Dicotiledónea,extracted_images/image85.jpg
+Silene,Dicotiledónea,extracted_images/image86.jpg
+Dianthus,Dicotiledónea,extracted_images/image87.jpg
+Saponaria officinalis,Dicotiledánea,extracted_images/image88.jpg
+Papaver rhoeas,Dicotiledónea,extracted_images/image89.jpg
+Chelidonium majus,Dicotiledónea,extracted_images/image90.jpg
+Fumaria,Dicotiledánea,extracted_images/image91.jpg
+"Fumaria officinalis
+
+Palomilla/ sangre de Cisto","Dicotiledónea
+
+R II
+R III",extracted_images/image92.jpg
+Rannunculus,Dicotiledónea,extracted_images/image93.jpg
+Drosera,Dicotiledánea,extracted_images/image94.jpg
+Brassica,Dicotiledánea,extracted_images/image95.jpg
+Raphanus,Dicotiledánea,extracted_images/image96.jpg
+Capsella bursa-pastoris,Dicotiledónea,extracted_images/image97.jpg
+Cistus,Dicotiledánea,extracted_images/image98.jpg
+Camellia japonica,Dicotiledónea,extracted_images/image99.jpg
+Umblicus ruprestris,Dicotiledónea,extracted_images/image100.jpg
+Sedum,Dicotiledónea,extracted_images/image101.jpg
+Fragaria vesca,Dicotiledónea,extracted_images/image102.jpg
+Rubus,Dicotiledánea,extracted_images/image103.jpg
+Rosa,Dicotiledónea,extracted_images/image104.jpg
+Sorbus,Dicotiledónea,extracted_images/image105.jpg
+Prunus,Dicotiledónea,extracted_images/image106.jpg
+Crataegus,Dicotiledánea,extracted_images/image107.jpg
+Pyrus,Dicotiledónea,extracted_images/image108.jpg
+Lotus,Dicotiledánea,extracted_images/image109.jpg
+Medicago,Dicotiledónea,extracted_images/image110.jpg
+Pisum,Dicotiledónea,extracted_images/image111.jpg
+Trifolium,Dicotiledónea,extracted_images/image112.jpg
+Lupinus,Dicotiledónea,extracted_images/image113.jpg
+Vicia,Dicotiledónea,extracted_images/image114.jpg
+Phaseolus,Dicotiledónea,extracted_images/image115.jpg
+Robinia,Dicotiledónea,extracted_images/image116.jpg
+Ulex,Dicotiledónea,extracted_images/image117.jpg
+Genista,Dicotiledónea,extracted_images/image118.jpg
+Cytisus,Dicotiledónea,extracted_images/image119.jpg
+Acacia,Dicotiledónea,extracted_images/image120.jpg
+Eucaliptus,Dicotiledónea,extracted_images/image121.jpg
+Malva,Dicotiledónea,extracted_images/image122.jpg
+Althea,Dicotiledónea,extracted_images/image123.jpg
+Tilia,Dicotiledónea,extracted_images/image124.jpg
+Oxalis,Dicotiledánea,extracted_images/image125.jpg
+Geranium,Dicotiledónea,extracted_images/image126.jpg
+Erodium,Dicotiledánea,extracted_images/image127.jpg
+Aesculus hippocastanum,Dicotiledónea,extracted_images/image128.jpg
+Acer,Dicotiledónea,extracted_images/image129.jpg
+Ilex aquifolium,Dicotiledónea,extracted_images/image130.jpg
+Hedera helix,Dicotiledónea,extracted_images/image131.jpg
+Phoeniculum vulgare,Dicotiledónea,extracted_images/image132.jpg
+Daucus carota,Dicotiledónea,extracted_images/image133.jpg
+Primula,Dicotiledónea,extracted_images/image134.jpg
+Sambucus,Dicotiledónea,extracted_images/image135.jpg
+Catalpa bignonioides,Dicotiledónea,extracted_images/image136.jpg
+Rhododendron,Dicotiledónea,extracted_images/image137.jpg
+Daboecia,Dicotiledónea,extracted_images/image138.jpg
+Arbutus unedo,Dicotiledóneas,extracted_images/image139.jpg
+Erica,Dicotiledónea,extracted_images/image140.jpg
+Calluna,Dicotiledónea,extracted_images/image141.jpg
+Convolvulus,Dicotiledónea,extracted_images/image142.jpg
+Ipomea,Dicotiledónea,extracted_images/image143.jpg
+Echium,Dicotiledónea,extracted_images/image144.jpg
+Lithospermum,Dicotiledónea,extracted_images/image145.jpg
+Anchusa,Dicotiledónea,extracted_images/image146.jpg
+Solanum,Dicotiledónea,extracted_images/image147.jpg
+Linaria,Dicotiledónea,extracted_images/image148.jpg
+Digitalis,Dicotiledánea,extracted_images/image149.jpg
+Plantago,Dicotiledónea,extracted_images/image150.jpg
+Narium oleander,Dicotiledónea,extracted_images/image151.jpg
+Lavandula,Dicotiledónea,extracted_images/image152.jpg
+Mentha,Dicotiledónea,extracted_images/image153.jpg
+Salvia,Dicotiledónea,extracted_images/image154.jpg
+Olea europea,Dicotiledónea,extracted_images/image155.jpg
+Fraxinus,Dicotiledónea,extracted_images/image156.jpg
+Galium,Dicotiledónea,extracted_images/image157.jpg
+Verbena officinalis,Dicotiledónea,extracted_images/image158.jpg
+Taraxacum dens-leonis,Dicotiledónea,extracted_images/image159.jpg
+Bellis perennis,Dicotiledónea,extracted_images/image160.jpg
+Chrysanthemum,Dicotiledónea,extracted_images/image161.jpg
+Senecio,Dicotiledónea,extracted_images/image162.jpg
+Cardus,Dicotiledónea,extracted_images/image163.jpg
+Cichorium,Dicotiledónea,extracted_images/image164.jpg
+Centaurea,Dicotiledónea,extracted_images/image165.jpg
+"Thymus vulgaris
+
+Tomillo","Dicotiledónea
+
+C VISU I",extracted_images/image166.jpg
+Hypericum perforatum,"Dicotiledónea
+
+C VISU I",extracted_images/image167.jpg
+"Equisetum ramosissimum
+
+Cola de caballo","Dicotiledónea
+
+C VISU I",extracted_images/image168.jpg
+Elaeagnus angustifolia,"Dicotiledónea
+
+C VISU II",extracted_images/image169.jpg
+Narcissus,Monocotiledónea,extracted_images/image170.jpg
+Iris,Monocotiledónea,extracted_images/image171.jpg
+Allium,Monocotiledonea,extracted_images/image172.jpg
+Tulipa,Monocotiledónea,extracted_images/image173.jpg
+Ruscus aculeatus,"Monocotiledónea 
+
+R II",extracted_images/image174.jpg
+Juncus,Monocotiledónea,extracted_images/image175.jpg
+Musa paradisiaca,Monocotiledónea,extracted_images/image176.jpg
+Cyperus,Monocotiledónea,extracted_images/image177.jpg
+Triticum,Monocotiledónea,extracted_images/image178.jpg
+Secale cereale,Monocotiledónea,extracted_images/image179.jpg
+Zea mays,Monocotiledónea,extracted_images/image180.jpg
+Hordeum,Monocotiledónea,extracted_images/image181.jpg
+Dactylis,Monocotiledónea,extracted_images/image182.jpg
+Lolium,Monocotiledónea,extracted_images/image183.jpg
+Avena,Monocotiledónea,extracted_images/image184.jpg
+Holcus lanatus,Monocotiledónea,extracted_images/image185.jpg
+Cynodon dactylon,Monocotiledónea,extracted_images/image186.jpg
+Poa,Monocotiledónea,extracted_images/image187.jpg
+Agrostis (césped),Monocotiledónea,extracted_images/image188.jpg
+Briza,Monocotiledónea,extracted_images/image189.jpg
+Bromus,Monocotiledónea,extracted_images/image190.jpg
+Festuca,Monocotiledónea,extracted_images/image191.jpg
+Lemna,Monocotiledónea,extracted_images/image192.jpg
+Typha latifolia,Monocotiledónea,extracted_images/image193.jpg
+"Lathraea clandestina
+
+Calzones de cuquiellu",R II,extracted_images/image194.jpg
